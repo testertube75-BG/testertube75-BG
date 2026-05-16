@@ -15,11 +15,11 @@
 
 <p align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Castellar&weight=700&size=38&duration=2500&pause=700&color=00FF00&background=ff0000&center=true&vCenter=true&width=1000&height=120&lines=OPEN+SOURCE;AI+TOOLS;TELEGRAM+BOTS;AUTOMATION"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=38&duration=2500&pause=700&color=000000&background=ff0000&center=true&vCenter=true&width=1000&height=120&lines=OPEN+SOURCE;AI+TOOLS;TELEGRAM+BOTS;AUTOMATION"/>
 </p>
 <p align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Castellar&weight=700&size=38&duration=2500&pause=700&color=ff0000&background=00F7FF&center=true&vCenter=true&width=1000&height=120&lines=AI+TOOLS+DEVELOPER;TELEGRAM+BOTS+CREATOR;WEB+APPS+AND+AUTOMATION;BUILDING+THE+FUTUR"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=38&duration=2500&pause=700&color=000000&background=00F7FF&center=true&vCenter=true&width=1000&height=120&lines=AI+TOOLS+DEVELOPER;TELEGRAM+BOTS+CREATOR;WEB+APPS+AND+AUTOMATION;BUILDING+THE+FUTUR"/>
 </p>
 
 
@@ -29,7 +29,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
 
 </p>
 
