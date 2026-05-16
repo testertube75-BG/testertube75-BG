@@ -87,27 +87,27 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=900&size=32&duration=1700&pause=450&color=FFD70f&background=ffdd00&center=true&vCenter=true&width=1000&lines=⚡+CURRENT+FOCUS+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=900&size=32&duration=1700&pause=450&color=FFD70f&background=000000&center=true&vCenter=true&width=1000&lines=⚡+CURRENT+FOCUS+⚡" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=27&duration=1800&pause=500&color=00F7FF&background=00000000&center=true&vCenter=true&width=1000&lines=🤖+AI+TOOLS+DEVELOPMENT" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=800&size=27&duration=1800&pause=500&color=00F7FF&background=000000&center=true&vCenter=true&width=1000&lines=🤖+AI+TOOLS+DEVELOPMENT" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&size=30&duration=1900&pause=500&color=FF00FF&background=00000000&center=true&vCenter=true&width=1000&lines=🎵+TELEGRAM+MUSIC+BOTS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=30&duration=1900&pause=500&color=FF00FF&background=000000&center=true&vCenter=true&width=1000&lines=🎵+TELEGRAM+MUSIC+BOTS" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=900&size=28&duration=2000&pause=550&color=39FF14&background=00000000&center=true&vCenter=true&width=1000&lines=🌐+MODERN+WEB+APPS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=900&size=28&duration=2000&pause=550&color=39FF14&background=000000&center=true&vCenter=true&width=1000&lines=🌐+MODERN+WEB+APPS" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=1800&pause=500&color=FF3131&background=00000000&center=true&vCenter=true&width=1000&lines=⚡+AUTOMATION+SYSTEMS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=900&size=28&duration=1800&pause=500&color=FF3131&background=000000&center=true&vCenter=true&width=1000&lines=⚡+AUTOMATION+SYSTEMS" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=900&size=28&duration=2100&pause=600&color=9D00FF&background=00000000&center=true&vCenter=true&width=1000&lines=🔥+OPEN+SOURCE+INNOVATION" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=900&size=28&duration=2100&pause=600&color=9D00FF&background=000000&center=true&vCenter=true&width=1000&lines=🔥+OPEN+SOURCE+INNOVATION" />
 </p>
 
 
@@ -117,7 +117,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
 </p>
 
 
