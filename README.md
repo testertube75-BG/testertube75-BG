@@ -3,6 +3,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Castellar&weight=700&size=38&duration=2500&pause=700&color=00FF00&background=000000&center=true&vCenter=true&width=1000&height=500&lines=ACCESS+GRANTED...;INITIALIZING+SYSTEM...;TESTERTUBE75-BG+is+here;MODE+ACTIVATED....;WELCOME+TO+MY+CYBER+WORLD" />
 
 
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,nodejs,js,linux,react,mongodb,git,vscode" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=testertube75-BG&theme=chartreuse-dark&hide_border=true&background=000000"/> </p>
+
+
+
 <p align="center">
   <img src="testertube75-bg-neon-blink.gif" width="100%">
 </p>
@@ -66,24 +72,11 @@
 
 
 
-<h1 align="center">⚡🔥 TECH STACK  🔥⚡</h1>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,js,react,html,css,mongodb,linux,git,vscode" />
-</p>
-
-
-
-
-
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
 
 </p>
-
-
-
 
 
 
@@ -128,16 +121,6 @@
 
 
 
-
-
-
-
-# 🌟 GITHUB STATS
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=testertube75-BG&show_icons=true&theme=radical&hide_border=true&bg_color=000000"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=testertube75-BG&theme=radical&hide_border=true&background=000000"/>
-</p>
 
 
 
