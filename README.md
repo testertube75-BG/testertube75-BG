@@ -43,30 +43,19 @@
 <h1 align="center">⚡🌌 ABOUT ME 🌌⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=900&size=32&duration=2200&pause=500&color=FFD700&background=00000000&center=true&vCenter=true&width=1000&lines=✦+B....G....+%7C+Open+Source+Developer+✦" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=900&size=32&duration=2200&pause=500&color=FFD700&background=000000&center=true&vCenter=true&width=1000&lines=✦+B....G....+%7C+Open+Source+Developer+✦" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&size=30&duration=2300&pause=600&color=00F7FF&background=00000000&center=true&vCenter=true&width=1000&lines=Python+•+JavaScript+•+React+•+NodeJS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=30&duration=2300&pause=600&color=00F7FF&background=000000&center=true&vCenter=true&width=1000&lines=Python+•+JavaScript+•+React+•+NodeJS" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=2300&pause=600&color=FF00FF&background=00000000&center=true&vCenter=true&width=1000&lines=Telegram+API+•+AI+Automation+•+Solidity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=25&duration=2300&pause=600&color=FF00FF&background=000000&center=true&vCenter=true&width=1000&lines=Telegram+API+•+AI+Automation+•+Solidity" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=900&size=27&duration=2500&pause=700&color=39FF14&background=00000000&center=true&vCenter=true&width=1000&lines=Building+futuristic+free+tools+for+everyone" />
-</p>
-
-
-
-
-
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=900&size=27&duration=2500&pause=700&color=39FF14&background=000000&center=true&vCenter=true&width=1000&lines=Building+futuristic+free+tools+for+everyone" />
 </p>
 
 
@@ -77,6 +66,17 @@
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
+
+</p>
+
+
+
+
+
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
 
 </p>
 
