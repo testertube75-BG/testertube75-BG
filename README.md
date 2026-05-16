@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Castellar&weight=700&size=38&duration=2500&pause=700&color=00FF00&background=000000&center=true&vCenter=true&width=1000&height=500&lines=ACCESS+GRANTED...;INITIALIZING+SYSTEM...;TESTERTUBE75-BG+is+here;MODE+ACTIVATED....;WELCOME+TO+MY+CYBER+WORLD" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Castellar&weight=700&size=38&duration=2500&pause=700&color=00FF00&background=000000&center=true&vCenter=true&width=1000&height=250&lines=ACCESS+GRANTED...;INITIALIZING+SYSTEM...;TESTERTUBE75-BG+is+here;MODE+ACTIVATED....;WELCOME+TO+MY+CYBER+WORLD" />
 
 
 
@@ -13,15 +13,17 @@
   <img src="testertube75-bg-neon-blink.gif" width="100%">
 </p>
 
-
-<h2 align="center">
-🚀 OPEN SOURCE • AI TOOLS • TELEGRAM BOTS • AUTOMATION 🚀
-</h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+TOOLS+DEVELOPER;TELEGRAM+BOTS+CREATOR;WEB+APPS+AND+AUTOMATION;BUILDING+THE+FUTURE" />
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Castellar&weight=700&size=38&duration=2500&pause=700&color=00FF00&background=ff0000&center=true&vCenter=true&width=1000&height=120&lines=OPEN+SOURCE;AI+TOOLS;TELEGRAM+BOTS;AUTOMATION"/>
+</p>
+<p align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Castellar&weight=700&size=38&duration=2500&pause=700&color=ff0000&background=00F7FF&center=true&vCenter=true&width=1000&height=120&lines=AI+TOOLS+DEVELOPER;TELEGRAM+BOTS+CREATOR;WEB+APPS+AND+AUTOMATION;BUILDING+THE+FUTUR"/>
 </p>
 
+
+ 
 
 
 
