@@ -1,4 +1,9 @@
 <p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Castellar&weight=700&size=38&duration=2500&pause=700&color=00FF00&background=000000&center=true&vCenter=true&width=1000&height=500&lines=ACCESS+GRANTED...;INITIALIZING+SYSTEM...;TESTERTUBE75-BG+is+here;MODE+ACTIVATED....;WELCOME+TO+MY+CYBER+WORLD" />
+
+
+<p align="center">
   <img src="testertube75-bg-neon-blink.gif" width="100%">
 </p>
 
@@ -8,7 +13,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=WELCOME+TO+MY+CYBER+WORLD;AI+TOOLS+DEVELOPER;TELEGRAM+BOTS+CREATOR;WEB+APPS+AND+AUTOMATION;BUILDING+THE+FUTURE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+TOOLS+DEVELOPER;TELEGRAM+BOTS+CREATOR;WEB+APPS+AND+AUTOMATION;BUILDING+THE+FUTURE" />
 </p>
 
 
@@ -191,18 +196,6 @@
 
 
 
-
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&duration=2200&pause=800&color=4169E1&background=00000000&center=true&vCenter=true&width=900&lines=Like+my+work%3F+Buy+me+a+coffee+☕;Your+support+keeps+projects+alive+🚀;Every+coffee+helps+open-source+grow+💛" />
-</p>
-
-
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&duration=2200&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=900&lines=Like+my+work%3F+Buy+me+a+coffee+☕;Your+support+keeps+projects+alive+🚀;Every+coffee+helps+open-source+grow+💛" />
 </p>
@@ -215,6 +208,12 @@
 
 <p align="center">
   <b>💚 Donate a coffee and help me build more free tools for everyone.</b>
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
+
 </p>
 
 <h1 align="center">⚡ THANK YOU FOR VISITING ⚡</h1>
