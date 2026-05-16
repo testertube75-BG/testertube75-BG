@@ -32,7 +32,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
 
 </p>
+<p align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
+
+</p>
 
 
 
@@ -129,14 +133,13 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
 
 </p>
 
 
 
 
-# 🛸 VISITOR COUNT
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=testertube75-BG&label=CYBER+VISITORS&color=blueviolet&style=for-the-badge"/>
@@ -151,10 +154,14 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
 
 </p>
+<p align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
+
+</p>
 
 
 
@@ -175,14 +182,19 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
+
+</p>
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
 
 </p>
 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&duration=2200&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=900&lines=Like+my+work%3F+Buy+me+a+coffee+☕;Your+support+keeps+projects+alive+🚀;Every+coffee+helps+open-source+grow+💛" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=32&duration=2200&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=900&lines=Like+my+work%3F+Buy+me+a+coffee+☕;Your+support+keeps+projects+alive+🚀;Every+coffee+helps+open-source+grow+💛" />
 </p>
 
 <p align="center">
@@ -197,7 +209,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=1&duration=1&pause=999999&color=FF7B00&background=FF7B00&center=true&vCenter=true&width=1000&height=6&lines=+" />
 
 </p>
 
