@@ -193,18 +193,38 @@
 
 
 
+<!-- ========================= -->
+<!--      DONATION SECTION     -->
+<!-- ========================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=32&duration=2200&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=900&lines=Like+my+work%3F+Buy+me+a+coffee+☕;Your+support+keeps+projects+alive+🚀;Every+coffee+helps+open-source+grow+💛" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=32&duration=2200&pause=900&color=00FF99&background=000000&center=true&vCenter=true&width=900&lines=☕+Support+My+Open+Source+Projects;🚀+Every+Donation+Keeps+Development+Alive;💚+Thank+You+For+Supporting" />
 </p>
 
 <p align="center">
   <a href="https://github.com/sponsors/testertube75-BG">
-    <img src="https://img.shields.io/badge/☕_BUY_ME_A_COFFEE-00C853?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=003B1F" />
+    <img src="https://img.shields.io/badge/☕_DONATE_NOW-00FF99?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0D1117" />
   </a>
 </p>
 
 <p align="center">
-  <b>💚 Donate a coffee and help me build more free tools for everyone.</b>
+  <a href="https://www.buymeacoffee.com/YOURNAME">
+    <img src="https://img.shields.io/badge/💛_BUY_ME_A_COFFEE-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=2D2D2D" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ko-fi.com/YOURNAME">
+    <img src="https://img.shields.io/badge/🔥_SUPPORT_ON_KO--FI-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&labelColor=1A1A1A" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_Source-Supported_by_Community-00FF99?style=flat-square&logo=hackthebox&logoColor=black" />
+</p>
+
+<p align="center">
+  <b>💚 Your support helps me build more free bots, tools, and open-source projects.</b>
 </p>
 
 <p align="center">
